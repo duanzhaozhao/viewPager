@@ -1,0 +1,13 @@
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<item android:id="@android:id/background"
+    android:drawable="@drawable/storage_progress_bg"></item>
+    <item android:id="@android:id/progress"
+      >
+        <scale
+            android:scaleWidth="100%"
+            android:drawable="@drawable/storage_progress"
+            ></scale>
+    </item>
+</layer-list>
