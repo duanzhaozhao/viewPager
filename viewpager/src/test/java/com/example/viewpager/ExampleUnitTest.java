@@ -1,4 +1,4 @@
-package com.example.skysoft.myapplication;
+package com.example.viewpager;
 
 import org.junit.Test;
 
