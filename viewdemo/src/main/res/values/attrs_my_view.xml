@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="mWidth" format="dimension" />
+        <attr name="mHeight" format="dimension" />
+        <attr name="mRadius" format="dimension" />
+        <attr name="circleColor" format="color" />
+    </declare-styleable>
+</resources>
